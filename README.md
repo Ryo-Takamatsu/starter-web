@@ -16,6 +16,8 @@ This ia simple web project, deployment can be on any web server system
 
 ## How To Contribute
 
+Please fork this repository and then Pull Requests for review.
+
 ## Copyright
 
 2020 Git.Training
